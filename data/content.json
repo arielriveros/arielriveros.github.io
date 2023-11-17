@@ -1,0 +1,238 @@
+{
+    "avatars": ["avatar.jpeg", "pet.png"],
+    "stackIcons": [
+        ["typescript.png",
+        "javascript.png",
+        "python.png",
+        "c++.png"],
+        ["react.png",
+        "node.png",
+        "express.png",
+        "django.png",
+        "flask.png"],
+        ["threejs.png",
+        "unreal.png",
+        "opengl.png",
+        "webgl.png",
+        "vulkan.png"],
+        ["docker.png",
+        "git.png"]
+    ],
+    "en": {
+        "about": {
+            "title": "About Me",
+            "body": "Welcome! My name is Ariel Riveros. I was born in Chile and have lived there for all of my ${age} years. Currently, I am pursuing a degree in Computing Engineering and a Master of Science in Computer Science at the University of Chile. My thesis focuses on the development of a web application tool that enables the labeling of repetitive patterns in surfaces of 3D models for automatic detection datasets. My professional interests lie in web development and 3D computer graphics. \n I have a beautiful dog named Roma who has been with me for ${pet-age} years. \n My personal interests include playing (and sometimes developing) video games. Among my favorites are Silent Hill and Warcraft III. The map editor of the latter was one of my first experiences with coding. I also enjoy playing and composing music, mainly in the Metal genre. My instruments of choice are the classical and electric guitar, as well as drums."
+        },
+        "experience": {
+            "title": "Experience",
+            "education": {
+                "title": "Education",
+                "degrees": [
+                    {
+                        "school": "University of Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2023 - Present",
+                        "degree": "Master of Science in Computer Science"
+                    },
+                    {
+                        "school": "University of Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2019 - Present",
+                        "degree": "Computing Engineering"
+                    },
+                    {
+                        "school": "University of Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2017 - 2022",
+                        "degree": "Bachelor of Engineering Science in Computing"
+                    }
+                ]
+                },
+            "experience": {
+                "title": "Professional Experience",
+                "jobs": [
+                    {
+                        "company": "University of Chile",
+                        "company_logo": "uchile.png",
+                        "date": "Aug 2023 - Present",
+                        "position": "Teaching Assistant",
+                        "description": "Teaching Assistant for the Course Modeling and Computer Graphics for Engineers. Tasks include: preparing and giving lectures as well as preparing and giving practical sessions for the course.",
+                        "skills": ["Python", "OpenGL"]
+                    },
+                    {
+                        "company": "University of Chile",
+                        "company_logo": "uchile.png",
+                        "date": "Mar 2023 - Jul 2023",
+                        "position": "Teaching Assistant",
+                        "description": "Teaching Assistant for the Course Game Engine Architecture. Tasks include: grading assignments and exams, preparing and giving lectures as well as preparing and recording video tutorials for the course.",
+                        "skills": ["C++", "Unreal Engine"]
+                    },
+                    {
+                        "company": "AOne Games",
+                        "company_logo": "aone_games_logo.jpeg",
+                        "date": "Apr 2022 - Mar 2023",
+                        "position": "Game Developer",
+                        "description": "Various tasks which include: preparing 3D assets made by the artist for the game, bug fixing and networking. Most notably, I was tasked on the development of a game's Battle Pass system, which included frontend and backend implementation using PlayFab and Azure services.",
+                        "skills": ["C++", "Unreal Engine", "PlayFab", "Azure"]
+                    },
+                    {
+                        "company": "Wizz",
+                        "company_logo": "wizz_life_logo.jpeg",
+                        "date": "Mar 2022 - Jul 2022",
+                        "position": "Developer [Internship]",
+                        "description": "Development of a web application that allows dental health professionals to virtually place brackets on a 3D model of a patient's mouth. This task was carried in the context of the Software Project Course at the University of Chile.",
+                        "skills": ["Javascript", "React", "ThreeJs", "Python", "Django", "PostgreSQL"]
+                    },
+                    {
+                        "company": "Alloxentric",
+                        "company_logo": "alloxentric_logo.jpeg",
+                        "date": "Jan 2022 - Feb 2022",
+                        "position": "Backend Developer [Internship]",
+                        "description": "Development of an internal API which would then connect to third-party APIs from communication services (such as Whatsapp or Telegram) so that the company could offer its clients a service to send messages to their customers through their internal API.",
+                        "skills": ["Python", "Flask", "Quart", "Telethon", "Docker"]
+                    },
+                    {
+                        "company": "WOM Chile",
+                        "company_logo": "womchile_logo.jpeg",
+                        "date": "Jan 2021 - Apr 2021",
+                        "position": "Full Stack Developer [Internship]",
+                        "description": "Development of a web application for the company's internal use whith the purpose of displaying a team's KPI.",
+                        "skills": ["Typescript", "React", "Recharts", "NodeJs", "Express", "MySQL"]
+                    }
+                ]
+            }
+        },
+        "portfolio": {
+            "title": "Portfolio",
+            "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, diam eget"
+        },
+        "contact": {
+            "title": "Contact",
+            "telephone": {
+                "text": "Phone",
+                "number": "+56976011082"
+            },
+            "email": {
+                "text": "Email",
+                "address": "ariel.riveros@ug.uchile.cl"
+            },
+            "github": {
+                "text": "Github",
+                "url": "https://github.com/arielriveros"
+            },
+            "linkedin": {
+                "text": "Linkedin",
+                "url": "https://www.linkedin.com/in/ariel-riveros-2b9991224/"
+            }
+        }
+    },
+    "es": {
+        "about": {
+            "title": "Sobre Mi",
+            "body": "¡Bienvenido(a)! Mi nombre es Ariel Riveros. Nací en Chile y he vivido ahí durante todos mis ${age} años. Actualmente, estoy cursando las carreras de Ingeniería Civil en Computación y Magíster en Ciencias, Mención Computación en la Universidad de Chile. Mi tesis se centra en el desarrollo de una herramienta de aplicación web que permite el etiquetado de patrones repetitivos en superficies de modelos 3D para la creación de datasets de detección automática. Mis intereses profesionales se centran en el desarrollo web y la computación gráfica 3D. Tengo una hermosa perrita llamada Roma, que me ha acompañado durante ${pet-age} años. Mis intereses personales incluyen jugar (y a veces desarrollar) videojuegos. Entre mis favoritos se encuentran Silent Hill y Warcraft III. El editor de mapas de este último fue una de mis primeros acercamientos a la programación. También disfruto tocando y componiendo música, principalmente en el género Metal. Mis principales instrumentos son la guitarra clásica y eléctrica, así como la batería."
+        },
+        "experience": {
+            "title": "Experiencia",
+            "education": {
+                "title": "Educación",
+                "degrees": [
+                    {
+                        "school": "Universidad de Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2023 - Actualidad",
+                        "degree": "Magíster en Ciencias, Mención Computación"
+                    },
+                    {
+                        "school": "Universidad de Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2019 - Actualidad",
+                        "degree": "Ingeniería Civil en Computación"
+                    },
+                    {
+                        "school": "Universidad de Chile",
+                        "school_logo": "uchile.png",
+                        "date": "2017 - 2022",
+                        "degree": "Licenciatura en Ciencias de la Ingeniería, Mención Computación"
+                    }
+                ]
+            },
+            "experience": {
+                "title": "Experiencia Profesional",
+                "jobs": [
+                    {
+                        "company": "Universidad de Chile",
+                        "company_logo": "uchile.png",
+                        "date": "Ago 2023 - Actualidad",
+                        "position": "Profesor Auxiliar",
+                        "description": "Profesor Auxiliar para el ramo Modelación y Computación Gráfica para Ingenieros. Las tareas incluyen: preparar y dar clases, así como preparar y dar sesiones prácticas para el curso.",
+                        "skills": ["Python", "OpenGL"]
+                    },
+                    {
+                        "company": "Universidad de Chile",
+                        "company_logo": "uchile.png",
+                        "date": "Mar 2023 - Jul 2023",
+                        "position": "Ayudante",
+                        "description": "Ayudante para el curso Arquitectura de Motores de Juegos. Las tareas incluyen calificar exámenes y tareas, preparar y dar clases, así como preparar y grabar video tutoriales para el curso.",
+                        "skills": ["C++", "Unreal Engine"]
+                    },
+                    {
+                        "company": "AOne Games",
+                        "company_logo": "aone_games_logo.jpeg",
+                        "date": "Abr 2022 - Mar 2023",
+                        "position": "Desarrollador de Videojuegos",
+                        "description": "Diversas tareas que incluyen: preparar assets 3D creados por artistas para el juego, corregir bugs y trabajar en networking. Destacadamente, me asignaron el desarrollo del sistema de Pase de Batalla de un juego, que involucró la implementación tanto en el frontend como en el backend utilizando servicios de PlayFab y Azure.",
+                        "skills": ["C++", "Unreal Engine", "PlayFab", "Azure"]
+                    },
+                    {
+                        "company": "Wizz",
+                        "company_logo": "wizz_life_logo.jpeg",
+                        "date": "Mar 2022 - Jul 2022",
+                        "position": "Desarrollador [Práctica Profesional]",
+                        "description": "Desarrollo de una aplicación web que permite a profesionales de la salud dental colocar virtualmente brackets en un modelo 3D de la boca de un paciente. Esta tarea se llevó a cabo en el marco del Curso de Proyecto de Software en la Universidad de Chile.",
+                        "skills": ["Javascript", "React", "ThreeJs", "Python", "Django", "PostgreSQL"]
+                    },
+                    {
+                        "company": "Alloxentric",
+                        "company_logo": "alloxentric_logo.jpeg",
+                        "date": "Ene 2022 - Feb 2022",
+                        "position": "Desarrollador Backend [Práctica Profesional]",
+                        "description": "Desarrollo de una API interna que luego se conectaría a APIs de terceros de servicios de comunicación (como WhatsApp o Telegram), para que la empresa pudiera ofrecer a sus clientes un servicio para enviar mensajes a sus clientes a través de su API interna.",
+                        "skills": ["Python", "Flask", "Quart", "Telethon", "Docker"]
+                    },
+                    {
+                        "company": "WOM Chile",
+                        "company_logo": "womchile_logo.jpeg",
+                        "date": "Ene 2021 - Abr 2021",
+                        "position": "Desarrollador Full Stack [Práctica Profesional]",
+                        "description": "Desarrollo de una aplicación web para uso interno de la empresa con el propósito de mostrar los indicadores clave de rendimiento (KPI) de un equipo.",
+                        "skills": ["Typescript", "React", "Recharts", "NodeJs", "Express", "MySQL"]
+                    }
+                ]
+            }
+        },
+        "portfolio": {
+            "title": "Portafolio",
+            "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, diam eget"
+        },
+        "contact": {
+            "title": "Contacto",
+            "telephone": {
+                "text": "Teléfono",
+                "number": "+56976011082"
+            },
+            "email": {
+                "text": "Email",
+                "address": "ariel.riveros@ug.uchile.cl"
+            },
+            "github": {
+                "text": "Github",
+                "url": "https://github.com/arielriveros"
+            },
+            "linkedin": {
+                "text": "Linkedin",
+                "url": "https://www.linkedin.com/in/ariel-riveros-2b9991224/"
+            }
+        }
+    }
+
+}
